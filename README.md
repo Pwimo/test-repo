@@ -1,2 +1,3 @@
-# test-repo
-This is a repo for testing Git.
+# README
+The "#" is a header symbol.
+Without it, it will be a normal text line.
